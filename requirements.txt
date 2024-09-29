@@ -1,0 +1,6 @@
+flask
+spacy
+numpy
+sentence-transformers
+rouge-score
+torch
